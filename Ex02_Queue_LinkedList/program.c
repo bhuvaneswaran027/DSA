@@ -170,3 +170,6 @@ void empty()
     else
         printf("Queue not empty");
 }
+/*
+output:
+*/
