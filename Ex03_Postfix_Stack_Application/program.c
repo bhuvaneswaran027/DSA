@@ -68,4 +68,7 @@ int main()
 }
 /*
 output:
+Enter the expression :: 245+*
+
+The result of expression 245+* = 18
 */
