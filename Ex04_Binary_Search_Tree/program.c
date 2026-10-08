@@ -85,3 +85,6 @@ int main() {
     printf("Inorder traversal: ");
     inorder(root);
 }
+/*
+output:
+*/
