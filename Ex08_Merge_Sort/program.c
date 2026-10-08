@@ -85,3 +85,6 @@ int main()
     print_array(arra, arr_size);
     return 0;
 }
+/*
+output:
+*/
